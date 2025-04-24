@@ -5,6 +5,8 @@ import axios from '../utils/axios';
 import { Header } from './templates/Header';
 import Horizontal from './templates/Horizontal';
 import Dropdown from './templates/Dropdown';
+import Loader from './Loader';
+
 const Home = () => {
   document.title = "TrailerX | Homepage";
    const [wallpaper, setwallpaper] = useState(null);
@@ -53,7 +55,7 @@ const Home = () => {
         <Horizontal data={trending}  />
       </div>
     </div>
-  ):<h1>Loading</h1>
+  ):<Loader />
 };
 
 export default Home;
