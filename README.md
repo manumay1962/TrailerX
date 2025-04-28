@@ -17,6 +17,11 @@ Vercel — For seamless and reliable deployment, making TrailerX accessible to e
 # API Used
 TMDB API (The Movie Database) for fetching trailers, actor information, and movie/TV show data.
 
+# Screenshots
+Here’s a sneak peek into what the project looks like:
+![Screenshot 2025-04-29 035148](https://github.com/user-attachments/assets/9ae6355b-f762-487a-8033-1f0a81e94747)
+
+
 # 📬 Contact
 Feel free to reach out for feedback or collaboration:
 📧 manumay8@gmail.com
