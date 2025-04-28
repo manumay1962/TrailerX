@@ -14,6 +14,9 @@ React Router DOM — So you can hop from one movie page to another with ease, ju
 
 Vercel — For seamless and reliable deployment, making TrailerX accessible to everyone, everywhere.
 
+# API Used
+TMDB API (The Movie Database) for fetching trailers, actor information, and movie/TV show data.
+
 # 📬 Contact
 Feel free to reach out for feedback or collaboration:
 📧 manumay8@gmail.com
