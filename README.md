@@ -20,8 +20,15 @@ TMDB API (The Movie Database) for fetching trailers, actor information, and movi
 # Screenshots
 Here’s a sneak peek into what the project looks like:
 ![Screenshot 2025-04-29 035148](https://github.com/user-attachments/assets/9ae6355b-f762-487a-8033-1f0a81e94747)
+![Screenshot 2025-04-29 035218](https://github.com/user-attachments/assets/5941d75c-3e5d-4791-a1b8-0c3abcbeaf41)
+![Screenshot 2025-04-29 035312](https://github.com/user-attachments/assets/7dea8750-2f69-4a4c-a7ab-d0db14a30d44)
+![Screenshot 2025-04-29 035404](https://github.com/user-attachments/assets/fcaf5adf-61e2-4190-ba0e-53efd4143b7e)
+
+
 
 
 # 📬 Contact
 Feel free to reach out for feedback or collaboration:
 📧 manumay8@gmail.com
+
+**HAPPY CODING**
