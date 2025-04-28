@@ -50,7 +50,7 @@ const People = () => {
           onClick={() => navigate(-1)}
           className="text-2xl mr-1 mt-1  font-semibold text-zinc-400 hover:text-[#6556cd] ri-arrow-left-fill"
         ></i>
-        <h1 className="text-2xl text-zinc-400 font-semibold">Movies</h1>
+        <h1 className="text-2xl text-zinc-400 font-semibold">People</h1>
         <Topnav />
         
         <div className="w-[2%]"></div>
